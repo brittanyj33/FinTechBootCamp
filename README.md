@@ -20,7 +20,7 @@ Wealthsimple's Business Products are:
     Due to the rise of mobile application banking and the increase of digital banks - Wealthsimple created Wealthsimple Cash. Which is essentially a debit card with a digital bank with features such as no monthly account fees, no low balance fees, and no foreign transaction fees (coming soon). The functionality is a chequings and savings account combined - therefore clients can move and use their money with no fees and also earn 0.9% interest on their funds.
 4. Wealthsimple Crypto
 
-    This brand new product - was only release in the few weeks - offers a simply way to invest in cryptocurriencies. Currently they only offer buying and selling Bitcoin and Ethereum with $0 commission.
+    This brand new product - was only released in the past few weeks - offers a simply way to invest in cryptocurriencies. Currently they only offer buying and selling Bitcoin and Ethereum with $0 commission.
 
  **Landscape:**
 
