@@ -24,8 +24,10 @@ Wealthsimple's Business Products are:
 
  **Landscape:**
 
-Investment Management is the domain of the financial industry that Wealthsimple operates in. The major trends and innovations of this domain over the last 5-10 years that Wealthsimple has taken advantaged of a utilized to create their business is the automation of Investing with Robo-Advisors (Wealthsimple Invest), mobile applications with their Wealthsimle Cash product, and now the emergence of cryptocurrencies and crypto markets (Wealthsimple Crypto). Wealthsimple’s major competitors include: MoneyFarm, Axos Invest, iQuant and Nutmeg.
-Results
+Investment Management is the domain of the financial industry that Wealthsimple operates in. The major trends and innovations of this domain over the last 5-10 years that Wealthsimple has taken advantaged of a utilized to create their business is the automation of Investing with Robo-Advisors (Wealthsimple Invest), mobile applications with their Wealthsimple Cash product, and now the emergence of cryptocurrencies and crypto markets (Wealthsimple Crypto). Wealthsimple’s major competitors include: MoneyFarm, Axos Invest, iQuant and Nutmeg.
+
+**Results**
+
 Currently Wealthsimple has over C$5 Billion in assets under management due to the success of their robo-advisors and ETFs. Wealthsimple is now venturing into the crypto space by their recent launch of Wealthsimple Crypto. Some of the core metrics that companies in this domain use to measure success and how Wealthsimple is performing based on these metrics are:
 1. Dollar amount of assets under management – over C$5 billion
 2. Number of accounts under management – more than 175,000 clients
