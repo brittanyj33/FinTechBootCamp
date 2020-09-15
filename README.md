@@ -6,7 +6,21 @@ Wealthsimple is a Toronto-based company that utilizes robo-advisors for investme
 
 **Business Activities:**
 
-Wealthsimple’s mission is that they are trying to make investing accessible and affordable for all Canadians – regardless of social economic status, education level, background or age. The company is targeted towards millennials, young adults, and Canadians with lower financially competency rates. Wealthsimple uses robo-advisors and have digitized the whole process of investing – all without human interaction – e.g. signing agreements, evaluating your personal risk profile, and picking stock/ investing on your behalf. Also, since they do not have the cost of salaries for various advisors – they can offer lower management fees. Wealthsimple’s main business technologies are Robo-Advisors and ETFs. Just recently, Wealthsimple Crypto launched – therefore extending their investing management to the markets of cryptocurrencies. 
+Wealthsimple’s mission is that they are trying to make investing accessible and affordable for all Canadians – regardless of social economic status, education level, background or age. The company is targeted towards millennials, young adults, and Canadians with lower financially competency rates. Wealthsimple uses robo-advisors and have digitized the whole process of investing – all without human interaction – e.g. signing agreements, evaluating your personal risk profile, and picking stock/ investing on your behalf. Also, since they do not have the cost of salaries for various advisors – they can offer lower management fees. Wealthsimple’s main business technologies are Robo-Advisors, Algoritimic Trading, and Mobile Applications. Just recently, Wealthsimple Crypto launched – therefore extending their investing management to the markets of cryptocurrencies. 
+Wealthsimple's Business Products are:
+1. Wealthsimple Invest
+
+    Using the research behind [passive investing](https://www.wealthsimple.com/en-ca/learn/modern-portfolio-theory) methodologies (Modern Portfolio Theory) - Wealthsimple Invest invests the clients' funds on auto-pilot - due to the use of Robo-Advisors and Algoritimic Trading. Clients can further personalize their investments by choosing to invest in socially responsible companies, investing spare change with a Roundup feature, Halal investing by investing according to your values, and an overflow feature where you invest your extra cash due to a set bank balance.
+
+2. Wealthsimple Trade
+
+    In this product it is commission-free trading and no account minimums. Clients can pick their own stocks and ETFs on major North American exchanges.
+3. Wealthsimple Cash
+
+    Due to the rise of mobile application banking and the increase of digital banks - Wealthsimple created Wealthsimple Cash. Which is essentially a debit card with a digital bank with features such as no monthly account fees, no low balance fees, and no foreign transaction fees (coming soon). The functionality is a chequings and savings account combined - therefore clients can move and use their money with no fees and also earn 0.9% interest on their funds.
+4. Wealthsimple Crypto
+
+    This brand new product - was only release in the few weeks - offers a simply way to invest in cryptocurriencies. Currently they only offer buying and selling Bitcoin and Ethereum with $0 commission.
 
  **Landscape:**
 
@@ -14,10 +28,12 @@ Investment Management is the domain of the financial industry that Wealthsimple 
 Results
 Currently Wealthsimple has over C$5 Billion in assets under management due to the success of their robo-advisors and ETFs. Wealthsimple is now venturing into the crypto space by their recent launch of Wealthsimple Crypto. Some of the core metrics that companies in this domain use to measure success and how Wealthsimple is performing based on these metrics are:
 1. Dollar amount of assets under management – over C$5 billion
-2. Number of accounts under management – not published
+2. Number of accounts under management – more than 175,000 clients
 3. Demographics of the accounts – e.g. age, geography, etc – not published
 4. Average Return On Investment – not published
 5. Financial literacy rate of Canada – e.g. Canada’s Financial Competency Survey – in 2014 Canada’s Financial literacy rate was 61%, since then only 40% of Canadians were able to increase their financial literacy rate.
+6. Funding backing the comapny: Wealthsimple is backed by $265M in investments from large, international financial institutions.
+
 
 **Issue**
 
